@@ -1,0 +1,11 @@
+fluxion = wifi cracking tool, all in one
+setoolkit = all in one...can steal passwords using 1,2,3,2 & proper configuration ;)
+airmon-ng = monitor mode
+aireplay-ng = can speed up deauth of devices
+airodump-ng = can leak wifi info of routers an such
+aircrack-ng = crack a password using a passwd.lst
+hcitool dev = checking bt shit
+hcidump = dumps BT info
+metasploit = can check exploits and control pc's...requires trojan to be affective but useful
+armitage = easier metasploit
+kingphisher = phishing scams
